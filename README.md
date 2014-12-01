@@ -17,6 +17,6 @@ product 產品單元 說明
 			})
 		
 
-- 套程式時，可用 "[product.php]"、"[product_inner.php]"、"[product_soldOut.php]" 這些檔案。
+- 套程式時，可用 " [product.php] "、" [product_inner.php] "、" [product_soldOut.php] " 這些檔案。
 - 檔名包含"C1"或"C1_1"系因示範側邊欄記憶位置而產生的。
 
